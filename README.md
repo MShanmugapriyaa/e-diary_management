@@ -17,6 +17,30 @@ A web-based E-Diary Management System developed using Django and JavaScript. Thi
 - HTML/CSS: Structure and styling of the web pages.
 - [List any other technologies or libraries you've used]
 
+## Installation and Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/e-diary-management.git
+cd e-diary-management
+
+1.Create and activate a virtual environment:
+- python -m venv venv
+source venv/bin/activate
+
+2.Install the project dependencies:
+- pip install -r requirements.txt
+
+3.Set up the database:
+- python manage.py makemigrations
+- python manage.py migrate
+
+4.Run the development server:
+- python manage.py runserver
+
+5.Access the project in your web browser at http://localhost:8000.
+```
 ## Usage:
 
 Register a new account or log in if you already have one.
@@ -46,27 +70,3 @@ Add any other relevant acknowledgements.
 Make sure to replace placeholders such as `your-username`, `link_to_your_logo_image`, and adjust folder structures, filenames, and content to match your actual project setup.
 Remember that a README is an essential part of your project's documentation, so make sure to keep it up-to-date and provide clear and concise information to potential users and contributors.
 
-## Installation and Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/e-diary-management.git
-cd e-diary-management
-
-1.Create and activate a virtual environment:
-- python -m venv venv
-source venv/bin/activate
-
-2.Install the project dependencies:
-- pip install -r requirements.txt
-
-3.Set up the database:
-- python manage.py makemigrations
-- python manage.py migrate
-
-4.Run the development server:
-- python manage.py runserver
-
-5.Access the project in your web browser at http://localhost:8000.
-```
