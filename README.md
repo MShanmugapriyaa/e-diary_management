@@ -25,7 +25,7 @@ Create and edit notes within your categories.
 Use the search functionality to find specific notes.
 Log out when you're done.
 
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
 Fork the repository.
@@ -34,10 +34,10 @@ Make your changes and commit them.
 Push your changes to your fork.
 Open a pull request describing your changes.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Acknowledgements
+## Acknowledgements
 Mention any resources, tutorials, or tools that you used and would like to credit.
 Feel free to acknowledge contributors, if any.
 Add any other relevant acknowledgements.
