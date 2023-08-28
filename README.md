@@ -40,7 +40,7 @@ source venv/bin/activate
 - python manage.py runserver
 
 5.Access the project in your web browser at http://localhost:8000.
-
+```
 
 ## Usage:
 
