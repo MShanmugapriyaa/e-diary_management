@@ -42,7 +42,7 @@ source venv/bin/activate
 5.Access the project in your web browser at http://localhost:8000.
 
 
-Usage:
+## Usage:
 
 Register a new account or log in if you already have one.
 Create categories to organize your notes.
