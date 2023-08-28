@@ -15,14 +15,13 @@ A web-based E-Diary Management System developed using Django and JavaScript. Thi
 - Django: Backend framework for handling server-side logic.
 - JavaScript: Frontend scripting language for dynamic user interactions.
 - HTML/CSS: Structure and styling of the web pages.
-- [List any other technologies or libraries you've used]
 
 ## Installation and Setup
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/e-diary-management.git
+git clone https://github.com/MShanmugapriyaa/e-diary-management.git
 cd e-diary-management
 
 1.Create and activate a virtual environment:
@@ -65,7 +64,6 @@ This project is licensed under the MIT License.
 Mention any resources, tutorials, or tools that you used and would like to credit.
 Feel free to acknowledge contributors, if any.
 Add any other relevant acknowledgements.
-
 
 Make sure to replace placeholders such as `your-username`, `link_to_your_logo_image`, and adjust folder structures, filenames, and content to match your actual project setup.
 Remember that a README is an essential part of your project's documentation, so make sure to keep it up-to-date and provide clear and concise information to potential users and contributors.
